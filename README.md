@@ -1,6 +1,6 @@
 # Things you can add to your profile
 
-### GITHUB ACTIONS
+## ------------ GITHUB ACTIONS ------------
 [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).  
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -42,7 +42,7 @@
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 
-### GENERATED TOOLS
+## ------------ GENERATED TOOLS ------------
 [Profile trophy](https://github.com/ryo-ma/github-profile-trophy)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -106,7 +106,7 @@
 
 
 
-### Tag block
+## ------------ TAG BLOCK ------------
 
 [GitHub README profile views counter](https://github.com/arturssmirnovs/github-profile-views-counter)  
 ![Profile views](https://gpvc.arturio.dev/arturssmirnovs)
