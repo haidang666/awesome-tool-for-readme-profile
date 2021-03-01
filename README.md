@@ -81,8 +81,6 @@
 ![review](https://raw.githubusercontent.com/kittinan/spotify-github-profile/716a50d2d70dc32f034d30c3e544141a4f1ddec0/img/example.svg)  
 
 ### [Music playing](https://github.com/natemoo-re/natemoo-re) - not really a tool, required to modify by yourself.  
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
