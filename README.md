@@ -1,4 +1,4 @@
-# Things you can add to your profile
+# Things can add to your profile
 
 ## ------------ GITHUB ACTIONS ------------
 ### [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).  
@@ -109,6 +109,10 @@
 
 ### [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)   
 ### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### [Stack Overflow flair](https://stackoverflow.com/users/flair)  
+<a href="https://stackexchange.com/users/7551592"><img src="https://stackexchange.com/users/flair/7551592.png" width="208" height="58" alt="profile for Felix on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Felix on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>     
+More info (https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/)
 
 
 ## ------------ TAG BLOCK ------------
