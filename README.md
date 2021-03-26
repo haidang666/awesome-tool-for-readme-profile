@@ -57,9 +57,10 @@
 ![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)
 
 
-### [Medium](https://github.com/omidnikrah/github-readme-medium)  
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
-
+### [Medium](https://github.com/bxcodec/github-readme-medium-recent-article)  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">   
+  
 ### [Stats card](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
