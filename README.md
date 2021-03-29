@@ -121,8 +121,8 @@ More info (https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/)
 
 ## ------------ TAG BLOCK ------------
 
-### [GitHub README profile views counter](https://github.com/arturssmirnovs/github-profile-views-counter) - [arturssmirnovs](https://github.com/arturssmirnovs/)   
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs)
+### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) - [antonkomarev](https://github.com/antonkomarev/)
+![](https://komarev.com/ghpvc/?username=haidang666&color=blue)
 
 ### [Show npm packages downloads](https://github.com/maddhruv/github-readme-npm-downloads) - [maddhruv](https://github.com/maddhruv/)
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
