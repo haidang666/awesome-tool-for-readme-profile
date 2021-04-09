@@ -49,6 +49,25 @@
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 </a>  
 
+### [Show recently activities](https://github.com/crazy-max/crazy-max) - [crazy-max](https://github.com/crazy-max)   
+#### Hi there 👋
+##### 👷 Check out what I'm currently working on
+
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
+...
+##### 👨‍💻 Repositories I created recently
+
+- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image based on Alpine Linux
+...
+##### 🚀 Latest releases I've contributed to
+
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.162.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.162.0-r0), 1 day ago) - Cross compilation helper for GoReleaser
+...
+
+##### ❤️ Latest sponsors
+- [Nick Sweeting](https://github.com/pirate) (4 days ago)
+...
+
 ## ------------ GENERATIONS TOOLS ------------
 ### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) - [ryo-ma](https://github.com/ryo-ma/) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
