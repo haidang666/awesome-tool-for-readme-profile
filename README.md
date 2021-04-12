@@ -146,6 +146,10 @@ More info (https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/)
 ### [Show npm packages downloads](https://github.com/maddhruv/github-readme-npm-downloads) - [maddhruv](https://github.com/maddhruv/)
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
+### [Badge generator](https://github.com/badges/shields)   
+![](https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic) ![](https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)     
+![](https://shields.io/badge/-yellowgreen-yellowgreen) ![](https://shields.io/badge/-orange-orange) ![](https://shields.io/badge/-blueviolet-blueviolet)  
 
+### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) - [Ileriayo](https://github.com/Ileriayo)   
 
-
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
