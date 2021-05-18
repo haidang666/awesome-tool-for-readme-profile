@@ -138,6 +138,9 @@ More info (https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/)
 ### [Profile Summary](https://github.com/tipsy/profile-summary-for-github) - [tipsy](https://github.com/tipsy/)  
 ![](https://user-images.githubusercontent.com/1521451/34072014-4451dbf6-e280-11e7-90a7-32ad1f313541.PNG)  
 
+### [Readme Jokes](https://github.com/ABSphreak/readme-jokes) - [ABSphreak](https://github.com/ABSphreak)  
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
+
 ## ------------ TAG BLOCK ------------
 
 ### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) - [antonkomarev](https://github.com/antonkomarev/)
