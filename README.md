@@ -87,10 +87,13 @@
 ![Github readme generator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123)
 
 ### [Dynamic quote generator for your GitHub readmes](https://github.com/shravan20/github-readme-quotes) - [shravan20](https://github.com/shravan20/)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)]
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 ### [Cardivo card name](https://github.com/satyawikananda/cardivo) - [satyawikananda](https://github.com/satyawikananda/)
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://pbs.twimg.com/profile_images/1295263306731536385/lSqa7QG7_400x400.jpg&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
+![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://pbs.twimg.com/profile_images/1295263306731536385/lSqa7QG7_400x400.jpg&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)  
+
+### [Capsule render](https://github.com/kyechan99/capsule-render) - [kyechan99](https://github.com/kyechan99)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 ### [GitHub Readme Testimonials](https://github.com/smashah/github-readme-testimonials) - [smashah](https://github.com/smashah/) 
 
