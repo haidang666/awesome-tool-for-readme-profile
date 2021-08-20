@@ -159,3 +159,6 @@ More info (https://stackoverflow.blog/2010/09/23/flair-now-even-flairier/)
 ### [Markdown badge list from shields.io](https://github.com/Ileriayo/markdown-badges) - [Ileriayo](https://github.com/Ileriayo)   
 
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+  
+### [Get gist count ](https://github.com/lifeparticle/Gist-Count) - [lifeparticle](https://github.com/lifeparticle/)  
+[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
