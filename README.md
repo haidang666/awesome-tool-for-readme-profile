@@ -13,6 +13,7 @@
 
 
 ### [All github metrics](https://github.com/lowlighter/metrics) -  [lowlighter](https://github.com/lowlighter)   
+An infographics generator with 30+ plugins and 200+ options to display stats
 <table>
   <tr>
     <th align="center">For user accounts</th>
