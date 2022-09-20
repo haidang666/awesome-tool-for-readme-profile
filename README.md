@@ -103,7 +103,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 </div>   
 
 ### [Show your Spotify activity](https://github.com/magic-ike/spotify-data-card) - [magic-ike](https://github.com/magic-ike/)
-![preview](https://raw.githubusercontent.com/magic-ike/spotify-data-card/master/docs/hide_title.svg)
+![preview](https://raw.githubusercontent.com/magic-ike/spotify-data-card/master/docs/basic.svg)
   
 ### [Show your Spotify playing](https://github.com/kittinan/spotify-github-profile) - [kittinan](https://github.com/kittinan/)
 ![review](https://raw.githubusercontent.com/kittinan/spotify-github-profile/716a50d2d70dc32f034d30c3e544141a4f1ddec0/img/example.svg)  
