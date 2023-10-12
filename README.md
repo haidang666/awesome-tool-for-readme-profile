@@ -69,6 +69,16 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 - [Nick Sweeting](https://github.com/pirate) (4 days ago)
 ...
 
+### [My Badges - a custom badge with GitHub's achievements](https://github.com/my-badges/my-badges) -  [antonmedv](https://github.com/antonmedv)    
+<a href="my-badges/a-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
+<a href="my-badges/ab-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
+<a href="my-badges/stars-100.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
+<a href="my-badges/stars-500.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a>
+<a href="my-badges/stars-1000.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-1000.png?raw=true" alt="I collected 1000 stars." title="I collected 1000 stars." width="64"></a>
+<a href="my-badges/stars-2000.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-2000.png?raw=true" alt="I collected 2000 stars." title="I collected 2000 stars." width="64"></a>
+<a href="my-badges/stars-5000.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-5000.png?raw=true" alt="I collected 5000 stars." title="I collected 5000 stars." width="64"></a>
+
+
 ## ------------ GENERATIONS TOOLS ------------
 ### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) - [ryo-ma](https://github.com/ryo-ma/) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
