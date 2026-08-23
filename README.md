@@ -107,6 +107,10 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 ### [Stackoverflow badge](https://github.com/omidnikrah/github-readme-stackoverflow) - [omidnikrah](https://github.com/omidnikrah/)
 ![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)
 
+### [terminal-shields](https://github.com/seuthootDev/terminal-shields) - [seuthootDev](https://github.com/seuthootDev/)
+![build](https://terminal-shields.vercel.app/badge/build-passing-brightgreen)
+![qt](https://terminal-shields.vercel.app/badge/qml-41CD52?logo=qt&theme=amber)
+![stars](https://terminal-shields.vercel.app/github/stars/seuthootDev/terminal-shields)
 
 ### [Medium](https://github.com/bxcodec/github-readme-medium-recent-article) - [bxcodec](https://github.com/bxcodec/) 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
