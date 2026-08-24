@@ -123,7 +123,10 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 [![Zodiac card](https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&width=360)](https://github.com/seuthootDev/github-readme-zodiac)
 
 ### [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - [seuthootDev](https://github.com/seuthootDev/)
-[![Chinese Zodiac card](https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&width=360)](https://github.com/seuthootDev/github-readme-chinese-zodiac)
+[![Chinese Zodiac card](https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&width=360&glow=1)](https://github.com/seuthootDev/github-readme-chinese-zodiac)
+
+### [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) - [seuthootDev](https://github.com/seuthootDev/)
+[![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=mac&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii)
 
 ### [simple profile generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - [arturssmirnovs](https://github.com/arturssmirnovs/)
 ![Github readme generator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123)
