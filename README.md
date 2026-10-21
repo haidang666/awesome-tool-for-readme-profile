@@ -119,6 +119,9 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 ### [Stats card](https://github.com/anuraghazra/github-readme-stats) - [anuraghazra](https://github.com/anuraghazra/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+### [gh-stats](https://github.com/ShayManor/github-readme-stats) - [ShayManor](https://github.com/ShayManor/)
+[![gh-stats card](https://gh-stats.com/?username=ShayManor)](https://github.com/ShayManor/github-readme-stats)
+
 ### [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) - [seuthootDev](https://github.com/seuthootDev/)
 [![Zodiac card](https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&width=360)](https://github.com/seuthootDev/github-readme-zodiac)
 
