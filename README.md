@@ -46,7 +46,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 ### [Git Ship](https://github.com/PingPongPlus/git-ship) - [PingPongPlus](https://github.com/PingPongPlus/)
 Turn your commits into animated pixel-art ships that automatically update in your profile README with GitHub Actions.
 
-[![Git Ship demo](https://raw.githubusercontent.com/PingPongPlus/awesome-tool-for-readme-profile/d06181608fbf942dba9042ec305604d2d583b5ea/assets/git-ship-demo.gif)](https://github.com/PingPongPlus/git-ship)
+[![Git Ship demo](https://raw.githubusercontent.com/PingPongPlus/git-ship/ecaa7c29f691c6952a870446f52b36ada00fc374/examples/huge-demo/git-ship.gif)](https://github.com/PingPongPlus/git-ship)
 
 ### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - [jstrieb](https://github.com/jstrieb)
 <a href="https://github.com/jstrieb/github-stats">
