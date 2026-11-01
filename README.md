@@ -43,6 +43,11 @@ An infographics generator with 30+ plugins and 200+ options to display stats
 ### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
+### [Git Ship](https://github.com/PingPongPlus/git-ship) - [PingPongPlus](https://github.com/PingPongPlus/)
+Turn your commits into animated pixel-art ships that automatically update in your profile README with GitHub Actions.
+
+[![Git Ship demo](https://raw.githubusercontent.com/PingPongPlus/awesome-tool-for-readme-profile/d06181608fbf942dba9042ec305604d2d583b5ea/assets/git-ship-demo.gif)](https://github.com/PingPongPlus/git-ship)
+
 ### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - [jstrieb](https://github.com/jstrieb)
 <a href="https://github.com/jstrieb/github-stats">
   
