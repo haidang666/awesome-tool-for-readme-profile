@@ -50,6 +50,13 @@ Turn your commits into animated pixel-art ships that automatically update in you
   <img src="https://raw.githubusercontent.com/PingPongPlus/git-ship/ecaa7c29f691c6952a870446f52b36ada00fc374/examples/huge-demo/git-ship.gif" width="800" height="320" alt="Git Ship demo with language logos and rain">
 </a>
 
+### [Git Jet](https://github.com/PingPongPlus/git-jet) - [PingPongPlus](https://github.com/PingPongPlus/)
+Launch pixel-art jets from a carrier to clear active days on your commit calendar. The animation updates in your profile README with GitHub Actions.
+
+<a href="https://github.com/PingPongPlus/git-jet">
+  <img src="https://raw.githubusercontent.com/PingPongPlus/git-jet/d93f8f888a5e2dbc21c350fbef2bdeed4cfccaf5/examples/demo/git-jet.gif" width="800" height="533" alt="Git Jet demo: a pixel jet launches from the default Lincoln carrier and clears commit calendar cells">
+</a>
+
 ### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - [jstrieb](https://github.com/jstrieb)
 <a href="https://github.com/jstrieb/github-stats">
   
