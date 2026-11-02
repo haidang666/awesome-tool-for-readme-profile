@@ -1,0 +1,4 @@
+# Stack Exchange answers automated requests with 403, but these pages work in browsers.
+^https://(stackexchange|stackoverflow)\.com/users/
+# Every request to the views counter counts as a profile view.
+^https://komarev\.com/ghpvc/
