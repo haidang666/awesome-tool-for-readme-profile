@@ -1,0 +1,43 @@
+name: Check links
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays at 06:00 UTC
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 3 --timeout 30 --accept 200..=299,429 README.md
+          fail: false
+
+      # Reuse one open issue instead of opening a new one every week.
+      - name: Find the open report
+        id: report
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "number=$(gh issue list --repo "$GITHUB_REPOSITORY" --label broken-links --state open --json number --jq '.[0].number // empty')" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the report
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Broken links report
+          content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.report.outputs.number }}
+          labels: broken-links
