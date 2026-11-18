@@ -299,6 +299,9 @@ Every entry is tagged by how it runs:
 
 These help you build or explore a profile, but you can't embed them in a README.
 
+### [ReadmeCraft](https://github.com/ErBharatMalhotra/readmecraft) - [ErBharatMalhotra](https://github.com/ErBharatMalhotra/)
+`Website` Dual-mode GitHub README studio with 41 self-rendered SVG badges, 63 themes, and 16 persona templates. Generates profile and repo READMEs from live GitHub data. Live at [readme.bharatdn.com](https://readme.bharatdn.com).
+
 ### [simple profile generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - [arturssmirnovs](https://github.com/arturssmirnovs/)
 `Website` Fill in a form and get a profile README to copy.
 
