@@ -275,6 +275,11 @@ Every entry is tagged by how it runs:
   <img src="https://raw.githubusercontent.com/PingPongPlus/git-jet/d93f8f888a5e2dbc21c350fbef2bdeed4cfccaf5/examples/demo/git-jet.gif" width="800" height="533" alt="Git Jet demo: a pixel jet launches from the default Lincoln carrier and clears commit calendar cells">
 </a>
 
+### [Contribution FX](https://github.com/Sur1ive/contribution-fx) - [Sur1ive](https://github.com/Sur1ive)
+`GitHub Action` Turn your contribution graph into animated SVG art: candlestick charts, Game of Life, neon, constellations and more.
+
+![Contribution FX](https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fx2-light.svg)
+
 ### [Readme Jokes](https://github.com/ABSphreak/readme-jokes) - [ABSphreak](https://github.com/ABSphreak)
 `Hosted API` A random programming joke.
 
