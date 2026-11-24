@@ -74,9 +74,7 @@ Every entry is tagged by how it runs:
 `Hosted API` `Self-host` Trophies for your GitHub stats.
 
 > [!WARNING]
-> The maintainer warns that the public instance may shut down because of hosting costs, and it was returning HTTP 402 when this list was last checked (November 2026). Self-hosting (fork it and deploy to Vercel) is recommended. The upstream README also lists volunteer mirrors.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+> The public instance returns HTTP 402. Self-hosting (fork it and deploy to Vercel) is recommended; the upstream README also lists volunteer mirrors.
 
 ### [Wakatime Weekly Metrics](https://github.com/athul/waka-readme) - [athul](https://github.com/athul/)
 `GitHub Action` Your weekly WakaTime coding stats as a text block in your README.
@@ -97,9 +95,7 @@ Every entry is tagged by how it runs:
 `Hosted API` A star history chart for any repository.
 
 > [!WARNING]
-> The hosted endpoint (`api.lucabubi.me`) didn't resolve when this list was last checked (November 2026).
-
-![star-history](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=violet)
+> The public chart endpoint is unavailable. The upstream project has instructions for self-hosting.
 
 ### [Stackoverflow badge](https://github.com/omidnikrah/github-readme-stackoverflow) - [omidnikrah](https://github.com/omidnikrah/)
 `Hosted API` Your Stack Overflow reputation and badges as a card.
@@ -178,10 +174,6 @@ Every entry is tagged by how it runs:
 ### [Music playing](https://github.com/natemoo-re/natemoo-re) - [natemoo-re](https://github.com/natemoo-re/)
 `Self-host` A Spotify now-playing card served from Nate Moore's own profile repo. Fork it and deploy your own copy to Vercel.
 
-| Now Playing                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://status.nmoo.dev/api/now-playing?open"><img src="https://status.nmoo.dev/api/now-playing" width="540" height="64"></a> |
-
 ## Headers and decoration
 
 ### [Capsule render](https://github.com/kyechan99/capsule-render) - [kyechan99](https://github.com/kyechan99)
@@ -191,8 +183,6 @@ Every entry is tagged by how it runs:
 
 ### [Cardivo card name](https://github.com/satyawikananda/cardivo) - [satyawikananda](https://github.com/satyawikananda/)
 `Hosted API` A business-card style intro with your name, a short bio and social links.
-
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://pbs.twimg.com/profile_images/1295263306731536385/lSqa7QG7_400x400.jpg&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
 
 ### [profile_stack](https://github.com/gleich/profile_stack) - [gleich](https://github.com/gleich/)
 `GitHub Action` A table of the technologies you use and the projects that use them.
@@ -252,28 +242,12 @@ Every entry is tagged by how it runs:
 ### [Get gist count](https://github.com/lifeparticle/Gist-Count) - [lifeparticle](https://github.com/lifeparticle/)
 `Hosted API` Your number of public gists as a badge.
 
-[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
-
 ## Fun
 
 ### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/)
 `GitHub Action` A snake that eats your contribution graph, as an animated SVG or GIF.
 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-
-### [Git Ship](https://github.com/PingPongPlus/git-ship) - [PingPongPlus](https://github.com/PingPongPlus/)
-`GitHub Action` Turn your commits into animated pixel-art ships that automatically update in your profile README.
-
-<a href="https://github.com/PingPongPlus/git-ship">
-  <img src="https://raw.githubusercontent.com/PingPongPlus/git-ship/ecaa7c29f691c6952a870446f52b36ada00fc374/examples/huge-demo/git-ship.gif" width="800" height="320" alt="Git Ship demo with language logos and rain">
-</a>
-
-### [Git Jet](https://github.com/PingPongPlus/git-jet) - [PingPongPlus](https://github.com/PingPongPlus/)
-`GitHub Action` Launch pixel-art jets from a carrier to clear active days on your commit calendar, updated in your profile README.
-
-<a href="https://github.com/PingPongPlus/git-jet">
-  <img src="https://raw.githubusercontent.com/PingPongPlus/git-jet/d93f8f888a5e2dbc21c350fbef2bdeed4cfccaf5/examples/demo/git-jet.gif" width="800" height="533" alt="Git Jet demo: a pixel jet launches from the default Lincoln carrier and clears commit calendar cells">
-</a>
 
 ### [Contribution FX](https://github.com/Sur1ive/contribution-fx) - [Sur1ive](https://github.com/Sur1ive)
 `GitHub Action` Turn your contribution graph into animated SVG art: candlestick charts, Game of Life, neon, constellations and more.
