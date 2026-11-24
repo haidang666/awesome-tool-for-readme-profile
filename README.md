@@ -70,12 +70,6 @@ Every entry is tagged by how it runs:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-### [Profile trophy](https://github.com/ryo-ma/github-profile-trophy) - [ryo-ma](https://github.com/ryo-ma/)
-`Hosted API` `Self-host` Trophies for your GitHub stats.
-
-> [!WARNING]
-> The public instance returns HTTP 402. Self-hosting (fork it and deploy to Vercel) is recommended; the upstream README also lists volunteer mirrors.
-
 ### [Wakatime Weekly Metrics](https://github.com/athul/waka-readme) - [athul](https://github.com/athul/)
 `GitHub Action` Your weekly WakaTime coding stats as a text block in your README.
 
@@ -90,12 +84,6 @@ Every entry is tagged by how it runs:
 `Hosted API` Your contribution graph as a terminal-style ASCII SVG.
 
 [![Contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=mac&scale=0.6)](https://github.com/seuthootDev/github-readme-insight-terminal-ascii)
-
-### [Repository Star History Graph](https://github.com/lucabubi/star-history) - [luca](https://github.com/lucabubi)
-`Hosted API` A star history chart for any repository.
-
-> [!WARNING]
-> The public chart endpoint is unavailable. The upstream project has instructions for self-hosting.
 
 ### [Stackoverflow badge](https://github.com/omidnikrah/github-readme-stackoverflow) - [omidnikrah](https://github.com/omidnikrah/)
 `Hosted API` Your Stack Overflow reputation and badges as a card.
@@ -171,18 +159,12 @@ Every entry is tagged by how it runs:
 
 ![review](https://raw.githubusercontent.com/kittinan/spotify-github-profile/716a50d2d70dc32f034d30c3e544141a4f1ddec0/img/example.svg)
 
-### [Music playing](https://github.com/natemoo-re/natemoo-re) - [natemoo-re](https://github.com/natemoo-re/)
-`Self-host` A Spotify now-playing card served from Nate Moore's own profile repo. Fork it and deploy your own copy to Vercel.
-
 ## Headers and decoration
 
 ### [Capsule render](https://github.com/kyechan99/capsule-render) - [kyechan99](https://github.com/kyechan99)
 `Hosted API` Animated header and footer banners with your own text.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-
-### [Cardivo card name](https://github.com/satyawikananda/cardivo) - [satyawikananda](https://github.com/satyawikananda/)
-`Hosted API` A business-card style intro with your name, a short bio and social links.
 
 ### [profile_stack](https://github.com/gleich/profile_stack) - [gleich](https://github.com/gleich/)
 `GitHub Action` A table of the technologies you use and the projects that use them.
@@ -238,9 +220,6 @@ Every entry is tagged by how it runs:
 > The upstream repository (formerly `maddhruv/github-readme-npm-downloads`) is archived and no longer maintained.
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdhruvjainin%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
-
-### [Get gist count](https://github.com/lifeparticle/Gist-Count) - [lifeparticle](https://github.com/lifeparticle/)
-`Hosted API` Your number of public gists as a badge.
 
 ## Fun
 
